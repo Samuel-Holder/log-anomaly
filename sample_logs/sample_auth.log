@@ -1,0 +1,22 @@
+Jan 10 08:15:23 webserver sshd[12345]: Accepted password for admin from 192.168.1.50 port 52341 ssh2
+Jan 10 08:16:45 webserver sshd[12346]: Failed password for root from 10.0.0.100 port 43521 ssh2
+Jan 10 08:16:47 webserver sshd[12346]: Failed password for root from 10.0.0.100 port 43521 ssh2
+Jan 10 08:16:49 webserver sshd[12346]: Failed password for root from 10.0.0.100 port 43521 ssh2
+Jan 10 08:16:51 webserver sshd[12346]: Failed password for root from 10.0.0.100 port 43521 ssh2
+Jan 10 08:16:53 webserver sshd[12346]: Failed password for root from 10.0.0.100 port 43521 ssh2
+Jan 10 08:17:01 webserver sshd[12347]: Invalid user hacker from 192.168.1.200 port 33456 ssh2
+Jan 10 08:17:03 webserver sshd[12347]: Failed password for invalid user hacker from 192.168.1.200 port 33456 ssh2
+Jan 10 08:20:15 webserver sshd[12348]: Accepted publickey for developer from 192.168.1.75 port 48123 ssh2
+Jan 10 08:25:30 webserver sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/cat /etc/shadow
+Jan 10 08:30:00 webserver sshd[12349]: Connection closed by 192.168.1.50 port 52341
+Jan 10 09:00:15 webserver sshd[12350]: Failed password for admin from 203.0.113.50 port 12345 ssh2
+Jan 10 09:00:17 webserver sshd[12350]: Failed password for admin from 203.0.113.50 port 12345 ssh2
+Jan 10 09:00:19 webserver sshd[12350]: Failed password for admin from 203.0.113.50 port 12345 ssh2
+Jan 10 09:00:21 webserver sshd[12350]: Failed password for admin from 203.0.113.50 port 12345 ssh2
+Jan 10 09:00:23 webserver sshd[12350]: Failed password for admin from 203.0.113.50 port 12345 ssh2
+Jan 10 09:00:25 webserver sshd[12350]: Failed password for admin from 203.0.113.50 port 12345 ssh2
+Jan 10 09:01:00 webserver sshd[12351]: Invalid user test from 203.0.113.50 port 12346 ssh2
+Jan 10 09:01:02 webserver sshd[12351]: Invalid user guest from 203.0.113.50 port 12347 ssh2
+Jan 10 09:01:04 webserver sshd[12351]: Invalid user user from 203.0.113.50 port 12348 ssh2
+Jan 10 10:30:00 webserver sshd[12352]: Accepted password for admin from 192.168.1.50 port 54321 ssh2
+Jan 10 23:45:00 webserver sshd[12353]: Accepted password for admin from 198.51.100.25 port 11111 ssh2
